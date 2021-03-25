@@ -15,7 +15,7 @@ from OpenGL.raw.WGL.EXT.swap_control import wglSwapIntervalEXT
 
 import sys
 
-sys.path.insert(0, '../')
+sys.path.insert(0, '../../')
 import sencyber.tools as tools
 
 class GLWindow:
