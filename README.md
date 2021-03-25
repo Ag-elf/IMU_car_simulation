@@ -15,4 +15,9 @@ Please check the related `__README.txt` files in each folder for detailed inform
 
 ## application/car_simulation
 
-IMU car simulation application based on OpenGL.
+IMU car simulation application   
+Useful links for this project:  
++ [`Kalman Filter`](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
++ [`Mahony Filter AHRS`](https://github.com/xioTechnologies/Open-Source-AHRS-With-x-IMU)  
++ [`"Learn OpenGL"`](https://learnopengl.com/)
++ [`"Learn OpenGL" CHN Translation`](https://learnopengl-cn.github.io/)
