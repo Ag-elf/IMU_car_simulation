@@ -21,4 +21,4 @@ Useful links for this project:
 + [`Mahony Filter AHRS`](https://github.com/xioTechnologies/Open-Source-AHRS-With-x-IMU)  
 + [`"Learn OpenGL"`](https://learnopengl.com/)
 + [`"Learn OpenGL" CHN Translation`](https://learnopengl-cn.github.io/)
-<img src="./pics/car_simulation.png" width="600" height="620" alt="Car Simulation"/>
+<img src="./__images/car_simulation.png" width="600" height="620" alt="Car Simulation"/>
