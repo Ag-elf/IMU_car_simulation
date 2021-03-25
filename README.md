@@ -25,4 +25,4 @@ Useful links for this project:
 
 
 ### MIT License
-**Copyright (c) 2021 Aeir_Elf**
+[**Copyright (c) 2021 Aeir_Elf**](https://github.com/Ag-elf/IMU_car_simulation/blob/main/LICENSE)
