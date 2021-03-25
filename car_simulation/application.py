@@ -6,7 +6,6 @@
 # @Version  : Python 3.8.5 +
 
 import pandas as pd
-import sencyber.tools as tools
 import math
 
 from OpenGL.GL import *
@@ -14,6 +13,10 @@ from OpenGL.GLUT import *
 from PIL import Image
 from OpenGL.raw.WGL.EXT.swap_control import wglSwapIntervalEXT
 
+import sys
+
+sys.path.insert(0, '../')
+import sencyber.tools as tools
 
 class GLWindow:
     def __init__(self, x_correction=0, y_correction=0, path='2021-03-23-14-15-45-Collision-processed.csv', ):
