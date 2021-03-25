@@ -11,7 +11,7 @@ The `sencyber` folder includes simple tools for easy coding.
 
 The `application` folder includes all the following applications.
 
-Please check the related `__README.txt` files in each folder for detailed information.
+Please check the related `__README.txt` in each folder for detailed information.
 
 ## application/car_simulation
 
@@ -21,4 +21,4 @@ Useful links for this project:
 + [`Mahony Filter AHRS`](https://github.com/xioTechnologies/Open-Source-AHRS-With-x-IMU)  
 + [`"Learn OpenGL"`](https://learnopengl.com/)
 + [`"Learn OpenGL" CHN Translation`](https://learnopengl-cn.github.io/)
-<img src="./pics/car_simulation.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="./pics/car_simulation.png" width="600" height="620" alt="Ooops, Seems img is out of date"/>
